@@ -140,7 +140,7 @@ public class Assignment2 {
      */
     /*
      write your understanding here.
-     This swap method call by value, not call by reference, so it only swaps two copies of object references. 
+     This swap method calls by value, not calls by reference, so it only swaps two copies of object references. 
      When the method end, employee x and y will be discarded. Nothing happened to a and b which are the two referenced objects.
      
     */
